@@ -1,1 +1,1 @@
-# custombot
+# custombot by Reezie
