@@ -1,17 +1,15 @@
-# discord.js-musicbot
-## A LATEST DISCORD.JS MUSIC BOT 
-A POWERFUL DISCORD MUSIC BOT BY PARAS
+custom music bot by reezie 
 
 
 .env
 ```TOKEN = XXXXXXXX```
-NO YT API REQUIRED 
+no need of yt API ..... 🥺
 
 SUPPORT SERVER 
-https://discord.gg/akYvjDK
+https://discord.gg/czxqf6K9cR
+
+Enjoy <3 
 
 
 
-MAKE SURE TO CHECK YOU HAVE PUT
-```client.queue = new Map()```
-in your Main file
+
