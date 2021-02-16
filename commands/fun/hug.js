@@ -8,7 +8,7 @@ module.exports = {
   description: "hugs a mentioned user",
   usage: "[command] + [user]",
   run: async (client, message, args) => {
-    //command by incasx org
+    //command to hug a person
 
     const user = message.mentions.users.first();
     if (!user) return message.reply("Mention someone to hug");
